@@ -1,0 +1,30 @@
+{
+  "name": "nodejsss",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "cookie-parser": "^1.4.6",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^6.12.6",
+    "nodemon": "^3.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meabhisingh/nodejs-first-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/meabhisingh/nodejs-first-app/issues"
+  },
+  "homepage": "https://github.com/meabhisingh/nodejs-first-app#readme",
+  "description": ""
+}
